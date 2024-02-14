@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "Juliette",
+        "lastName": "Tucker",
+        "email": "babygirl@cse341.com",
+        "favoriteColor": "magenta",
+        "birthday": "11/02/15"
+    },
+    {
+        "firstName": "Irma",
+        "lastName": "Tucker",
+        "email": "beautifulwoman@cse341.com",
+        "favoriteColor": "red",
+        "birthday": "04/21/85"
+    },
+    {
+        "firstName": "Conner",
+        "lastName": "Tucker",
+        "email": "buddy@cse341.com",
+        "favoriteColor": "cyan",
+        "birthday": "03/31/12"
+    },
+    {
+        "firstName": "James",
+        "lastName": "Tucker",
+        "email": "babyboy@cse341.com",
+        "favoriteColor": "red",
+        "birthday": "12/16/19"
+    }
+]
